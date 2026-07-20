@@ -5,3 +5,6 @@
 [submodule "OpenLand"]
 	path = OpenLand
 	url = https://github.com/reginalexavier/openland
+[submodule "wcswatin"]
+	path = wcswatin
+	url = https://github.com/reginalexavier/wcswatin
